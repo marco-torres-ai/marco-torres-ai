@@ -21,7 +21,7 @@
   <a href="https://github.com/marco-torres-ai">
     <img src="https://img.shields.io/badge/GitHub-171515?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <img src="https://img.shields.io/badge/📍_Huacho%2C_Perú-4a90d9?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/📍_Lima%2C_Perú-4a90d9?style=for-the-badge&logoColor=white"/>
   <img src="https://img.shields.io/badge/🟢_Open_to_Remote_Roles-22c55e?style=for-the-badge&logoColor=white"/>
   <img src="https://komarev.com/ghpvc/?username=marco-torres-ai&style=for-the-badge&color=7c3aed&label=PROFILE+VIEWS"/>
 </p>
